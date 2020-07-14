@@ -10,7 +10,6 @@ public class TEstController {
     public String rrt() {
 
         System.out.println("First brench !");
-        System.out.println("First brench second commit !");
 
         return "Hello world !!!";
 
