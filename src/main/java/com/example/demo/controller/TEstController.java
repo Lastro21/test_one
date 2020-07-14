@@ -10,6 +10,7 @@ public class TEstController {
     public String rrt() {
 
         System.out.println(1);
+        System.out.println(2);
 
         return "Hello world !!!";
 
