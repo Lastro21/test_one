@@ -9,10 +9,6 @@ public class TEstController {
     @RequestMapping(value = "/hello")
     public String rrt() {
 
-        System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
-
         return "Hello world !!!";
 
     }
