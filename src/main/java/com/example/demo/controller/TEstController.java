@@ -9,8 +9,6 @@ public class TEstController {
     @RequestMapping(value = "/hello")
     public String rrt() {
 
-        System.out.println("First brench !");
-
         return "Hello world !!!";
 
     }
